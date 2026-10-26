@@ -529,6 +529,9 @@ This category contains any 'grab-bags' of different kinds of art assets.
 
 ### Animation ###
 
+* [Ayatsuri2D][459] - A 2D mesh rigging editor for Live2D-style puppets, exporting
+  moc3, with a C ABI for embedding models in games. [GNU GPLv3][23] (editor),
+  [Apache2.0][20] (C ABI).
 * [Synfig Studio][104] - A 2D animation tool. [GNU GPLv2][14] or later.
 
 ### Bitmap Compression ###
@@ -1287,3 +1290,4 @@ This is a catch-all category for things that don't fit anywhere else.
 [456]: https://github.com/ArtyProf/steamworks-ffi-node
 [457]: https://github.com/erincatto/box3d
 [458]: https://excaliburjs.com/
+[459]: https://ayatsuri-2d.org/
